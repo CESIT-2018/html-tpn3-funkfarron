@@ -1,0 +1,6 @@
+TP5
+1 Realizar la carga de la web del tp4 desde http://localhost:5000 
+2 Pasar la tabla de productos por TCP. 
+3 Redireccionar los links. 
+4 Agregar a gitignore la carpeta node_modules. 
+5 Redireccionar links de bootstrap a las carpetas css y js de bootstrap.
